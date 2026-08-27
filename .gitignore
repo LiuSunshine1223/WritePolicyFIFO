@@ -1,0 +1,16 @@
+.idea/
+tmp/
+ExpA-copy/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+
+# Generated JSON files are not part of the public release.
+Results/*.json
+Results/**/*.json
